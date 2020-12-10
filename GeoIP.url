@@ -2,5 +2,5 @@
 Prop3=19,11
 [InternetShortcut]
 IDList=
-URL=https://raw.githubusercontent.com/Hackl0us/GeoIP-CN/master/artifacts/Country.mmdb
+URL=https://raw.githubusercontent.com/Hackl0us/GeoIP2-CN/release/Country.mmdb
 HotKey=0
